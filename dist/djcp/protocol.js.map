@@ -1,0 +1,1 @@
+{"version":3,"file":"protocol.js","sourceRoot":"","sources":["../../src/djcp/protocol.ts"],"names":[],"mappings":";;;AAWA,SAAgB,SAAS,CAA8C,OAAU,EAAE,OAAmB;IAClG,OAAO,OAAO,CAAC,OAAO,KAAK,OAAO,CAAC;AACvC,CAAC;AAFD,8BAEC;AASD,SAAgB,UAAU,CAA8C,OAAU,EAAE,QAAqB;IACrG,OAAO,QAAQ,CAAC,OAAO,KAAK,OAAO,CAAC;AACxC,CAAC;AAFD,gCAEC"}
