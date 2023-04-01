@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "module": "CommonJS",
+        "sourceMap": true,
+        "esModuleInterop": true,
+        "target": "ESNext",
+        "lib": [
+            "ESNext"
+        ],
+        "declaration": true,
+        "outDir": "dist",
+        "plugins": [
+            {
+                "transform": "typescript-json/lib/transform",
+            }
+        ]
+    },
+    "include": [
+        "src"
+    ]
+}
